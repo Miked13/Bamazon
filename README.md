@@ -6,7 +6,7 @@ These tools need to be installed to run "Bamazon" :
 * [Mysql](https://www.npmjs.com/package/mysql)
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 ### Setup
-After installing the requirements, to execute "Bamazon" the user need to navigate to the path where the app is located and type in terminal: ```npm install```.
+After installing the requirements, to execute "Bamazon" the user need to navigate to the path where the app is located and type in terminal: ```npm install```(it installs the dependencies required). Then type: ```node javascript bamazonCustomer.js```.
 To close the application, the user can hit the "Control C" buttons at the same time.
 #### Example
 ![](https://github.com/Miked13/Bamazon/blob/master/assets/bamazon%20demo/bamazon_demo.gif)
