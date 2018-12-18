@@ -9,5 +9,6 @@ These tools need to be installed to run "Bamazon" :
 ## Setup
 After installing the requirements, to execute "Bamazon" the user need to navigate to the path where the app is located and type in terminal: ```npm install```(it installs the dependencies required). Then type: ```node javascript bamazonCustomer.js```.
 To close the application, the user can hit the "Control C" buttons at the same time.
-## Example
+## Demonstration
 ![](https://github.com/Miked13/Bamazon/blob/master/assets/bamazon%20demo/bamazon_demo.gif)
+The demonstration above shows us the existing inventory of the store after typing the command: `node bamazonCustomer.js`. The application asks the user to choose an item available in the inventory by typing the ID number of that item. After the transaction, the command-line interface displays the total price of the purchased item and updates the quantity left of that item in the inventory.
